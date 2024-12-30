@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  background-image: url(imagens/fundo-menusuperior.svg);
+  color: aliceblue;
+  font-family: 'inter';
+}
+
+#logo{
+  margin-left: 50px;
+  margin-top: 50px;
+}
+
+#título-menusuperior{
+  margin-left: 150px;
+  margin-top: 75px;
+}
+
+#texto-menusuperior{
+  margin-left: 150px;
+  margin-top: 25px;
+}
