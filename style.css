@@ -1,7 +1,6 @@
 *{
   margin: 0;
-  background-image: url(imagens/fundo-menusuperior.svg);
-  color: aliceblue;
+  
   font-family: 'inter';
 }
 
@@ -18,4 +17,13 @@
 #texto-menusuperior{
   margin-left: 150px;
   margin-top: 25px;
+  padding-bottom: 100px;
+  
+}
+#menusuperior{
+  background-image: url(imagens/fundo-menusuperior.svg);
+  color: aliceblue;
+}
+#menuinformacional{
+  background-color: #EAECE5;
 }
